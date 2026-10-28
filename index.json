@@ -1,0 +1,11 @@
+{
+  "org": "databrickslabs",
+  "repo": "mcp",
+  "versions": [
+    {
+      "commit": "dc8ba768c5a341a7013a4b1599fe475427a3d060",
+      "tag": "",
+      "parsed_at": "2026-10-28T13:01:53.993778+00:00"
+    }
+  ]
+}
